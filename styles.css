@@ -1,0 +1,86 @@
+/* Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Colors */
+:root {
+    --background-color: #f4f4f4;
+    --background-header-color: #35424a;
+    --text-color: #333;
+    --primary-color: #3498db;
+    --secondary-color: #2ecc71;
+
+}
+
+/* Body */
+body {
+  font-family: Arial, sans-serif;
+  background-color: var(--background-color);
+  color: var(--text-color);
+  line-height: 1.6;
+}
+
+/* Header */
+header {
+  background-color: var(--background-header-color);
+  color: #ffffff;
+  padding: 10px 0;
+  text-align: center;
+}
+
+/* Main Content */
+main {
+  padding: 20px;
+  background-color: var(--background-color);
+  margin: 20px auto;
+  max-width: 900px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  padding: 10px 0;
+  background-color: var(--background-color);
+  color: var(--font-color);
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
+
+/* Styles */
+a {
+  color: #35424a;
+  text-decoration: none;
+}
+
+h1 {
+  margin: 0;
+  font-size: 2.5em;
+}   
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap; /* Permite que los elementos se ajusten en varias líneas si es necesario */
+  justify-content:left; /* Alinea los elementos a la izquierda */
+}
+
+ul li a {
+  display: flex;
+  align-items: center; /* Centra verticalmente */
+  justify-content: left; /* Centra horizontalmente */
+  gap: 10px; /* Espacio entre imagen y texto */
+  padding: 10px;
+  width: 150px;
+}
+
+ul li img {
+  width: 24px; /* Ajusta el tamaño del icono */
+  height: 24px;
+}
