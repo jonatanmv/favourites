@@ -3,8 +3,6 @@ Just those [favourites](https://jonatanmv.github.io/favourites/) links...
 
 ## Apps
 
-* * *
-
   * [![](favicons/google.png)alerts](https://www.google.com/alerts)
   * [![](favicons/amazon.png)amazon](https://www.amazon.es/)
   * [![](favicons/calendar.png)calendar](https://calendar.google.com/)
@@ -37,8 +35,6 @@ Just those [favourites](https://jonatanmv.github.io/favourites/) links...
 
 ## Creator
 
-* * *
-
   * [![](favicons/123rf.png)123rf](https://es.123rf.com/)
   * [![](favicons/google.png)audiolibrary](https://www.youtube.com/audiolibrary)
   * [![](favicons/github.png)github](https://github.com/jonatanmv)
@@ -53,8 +49,6 @@ Just those [favourites](https://jonatanmv.github.io/favourites/) links...
 
 
 ## Traveler
-
-* * *
 
   * [![](favicons/Booking.png)Booking](https://www.booking.com/)
   * [![](favicons/eDreams.png)eDreams](https://www.edreams.com)
