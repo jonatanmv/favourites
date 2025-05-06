@@ -1,6 +1,11 @@
 # Favourites
 Just those [favourites](https://jonatanmv.github.io/favourites/) links...
 
+<a href="https://ejemplo.com">
+    <img src="https://via.placeholder.com/100" alt="Imagen" style="vertical-align:middle;">
+    Texto junto a la imagen
+</a>
+
 ## Apps
 
 [![](favicons/google.png) alerts](https://www.google.com/alerts) [![](favicons/amazon.png) amazon](https://www.amazon.es/)
