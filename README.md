@@ -3,8 +3,7 @@ Just those [favourites](https://jonatanmv.github.io/favourites/) links...
 
 ## Apps
 
-  * [![](favicons/google.png) alerts](https://www.google.com/alerts)
-  * [![](favicons/amazon.png) amazon](https://www.amazon.es/)
+[![](favicons/google.png) alerts](https://www.google.com/alerts) [![](favicons/amazon.png) amazon](https://www.amazon.es/)
   * [![](favicons/calendar.png) calendar](https://calendar.google.com/)
   * [![](favicons/chatgpt.png) chatgpt](https://chatgpt.com/)
   * [![](favicons/google.png) contacts](https://contacts.google.com/)
