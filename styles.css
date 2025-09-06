@@ -48,6 +48,7 @@ footer {
   color: var(--font-color);
   margin: 20px auto;
   max-width: 1024px;
+  bottom:0 ;
 }
 
 /* Styles */
@@ -86,6 +87,7 @@ ul li img {
   width: 24px; /* Ajusta el tamaño del icono */
   height: 24px;
 }
+
 
 
 
