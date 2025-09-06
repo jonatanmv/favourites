@@ -54,8 +54,8 @@ footer {
 
 /* Styles */
 a {
-  color: #35424a;
   text-decoration: none;
+  color: inherit; /* Optional: makes the link inherit the surrounding text color */
 }
 
 h1 {
@@ -84,3 +84,4 @@ ul li img {
   width: 24px; /* Ajusta el tamaño del icono */
   height: 24px;
 }
+
