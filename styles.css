@@ -43,7 +43,7 @@ main {
 
 /* Footer */
 footer {
-  text-align: center;
+  text-align: right;
   padding: 10px 0;
   background-color: var(--background-color);
   color: var(--font-color);
@@ -88,5 +88,6 @@ ul li img {
   width: 24px; /* Ajusta el tamaño del icono */
   height: 24px;
 }
+
 
 
