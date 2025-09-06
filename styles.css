@@ -44,11 +44,10 @@ main {
 /* Footer */
 footer {
   text-align: right;
-  padding: 10px 0;
+  padding: 20px 0;
   background-color: var(--background-color);
   color: var(--font-color);
   max-width: 1024px;
-  bottom: 0;
 }
 
 /* Styles */
@@ -87,6 +86,7 @@ ul li img {
   width: 24px; /* Ajusta el tamaño del icono */
   height: 24px;
 }
+
 
 
 
